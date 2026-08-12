@@ -24,3 +24,9 @@ dist-ssr
 *.sw?
 .env
 .env.*
+
+# Test reports & Coverage
+coverage
+playwright-report/
+test-results/
+report/
